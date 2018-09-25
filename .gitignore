@@ -1,0 +1,14 @@
+/.metadata/
+*.project
+*.prefs
+*.classpath
+*idea
+*.class
+*target*
+*.iml
+*.settings*
+*src-gen*
+*.log
+.DS_Store
+*.springBeans*
+dependency-reduced-pom.xml
