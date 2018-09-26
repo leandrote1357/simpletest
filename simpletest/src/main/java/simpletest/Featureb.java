@@ -13,4 +13,11 @@ public class Featureb {
 		
 	}
 	
+	public void metodo1() {
+
+		
+	}
+	
+
+	
 }
