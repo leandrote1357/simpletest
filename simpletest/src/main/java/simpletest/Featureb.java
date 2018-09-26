@@ -12,5 +12,15 @@ public class Featureb {
 
 		
 	}
+
+	public void metodo1() {
+
+		
+	}
 	
+	public void metodoCherryPick() {
+
+		
+	}
+
 }
